@@ -12,6 +12,10 @@ The patient, virtualized. Clinical evidence, accelerated.
 
 ---
 
+
+
+
+
 ## About
 
 MirrorHealth is the infrastructure that securely activates and standardizes clinical data. We mediate between healthcare providers and researchers to generate real-world and in-silico evidence without compromising privacy.
@@ -20,9 +24,8 @@ Using generative AI and automated semantic standardization, we turn fragmented c
 
 Private by design. Aligned with EHDS and GDPR.
 
-## Demo 
 
-https://github.com/user-attachments/assets/c0079c0a-6a39-4d70-8af7-1ccb95c9781c
+https://github.com/user-attachments/assets/f3d2173a-1eee-483d-b52e-9cc5db6ad0f6
 
 ## Solutions
 
