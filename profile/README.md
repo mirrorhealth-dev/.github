@@ -20,22 +20,9 @@ Using generative AI and automated semantic standardization, we turn fragmented c
 
 Private by design. Aligned with EHDS and GDPR.
 
-## Demo
+## Demo 
 
-<!--
-  To embed a video: edit this README on github.com, drag an .mp4 (max 100 MB)
-  into the editor, and GitHub will insert a URL like:
-  https://github.com/user-attachments/assets/xxxxxxxx
-  Paste it on its own line below and it renders as an inline player.
--->
-
-https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-VIDEO
-
-<!--
-  Alternative: a clickable thumbnail that opens a hosted video (YouTube, Vimeo...)
-
-  [![MirrorHealth demo](assets/demo-thumbnail.png)](https://youtu.be/VIDEO_ID)
--->
+https://github.com/user-attachments/assets/c0079c0a-6a39-4d70-8af7-1ccb95c9781c
 
 ## Solutions
 
